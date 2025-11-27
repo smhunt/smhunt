@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Sean Hunt
 
-**30-Year Software Development Veteran and Leader | AI Integration Specialist | Full-Stack Architect**
+** Experienced Software Development & Technlogy Leader | AI Integration Specialist | Full-Stack Architect**
 
-I'm a battle-tested software engineer who's evolved through three decades of technology shifts—from the early web to modern AI-powered development. Currently operating as a one-person development company, I build production-ready solutions that blend deep technical expertise with cutting-edge AI capabilities.
+I'm a battle-tested software engineer who's evolved through three decades of technology shifts—from the early web to modern AI-powered development. I build production-ready solutions that blend deep technical expertise with cutting-edge AI capabilities.
 
 ## 🚀 What I'm Building Right Now
 
