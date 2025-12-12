@@ -1,20 +1,27 @@
 # 👋 Hey, I'm Sean Hunt
 
-** Experienced Software Development & Technlogy Leader | AI Integration Specialist | Full-Stack Architect**
+**Experienced Software Development & Technology Leader | AI Integration Specialist | Full-Stack Architect**
 
-I'm a battle-tested software engineer who's evolved through three decades of technology shifts—from the early web to modern AI-powered development. I build production-ready solutions that blend deep technical expertise with cutting-edge AI capabilities.
+I'm a veteran software engineer with 30 years of experience, evolving through every major technology shift—from the early web to modern AI-powered development. I build production-ready solutions that blend deep technical expertise with cutting-edge AI capabilities.
 
 ## 🚀 What I'm Building Right Now
 
-**AI-Powered Computer Vision**
-- 🎥 **AI Video Database** - Intelligent video composition agent using Claude Vision API and semantic search
-- 💧 **Utility Monitor** - Real-time water meter monitoring with Wyze Cam V2 and computer vision
-- 🤖 **CRA Tax Chatbot** - RAG-based assistant that outperforms the 17% accuracy rate of traditional phone support
+**AI-Powered Video & Media Tools**
+- 🎬 **Video Documentation** - Automated video analysis and documentation generation using Claude Vision API
+- 🎥 **Video Generation** - AI-powered video composition and generation pipeline
+- 📊 **Meta Extraction** - Intelligent metadata extraction from media files
+- 🎙️ **Local Podcast** - Podcast generation and management system
+
+**Business & Productivity**
+- 💼 **HyCRM** - Customer relationship management system
+- 💕 **Date Night** - Date planning and scheduling application
+- 🔐 **SSL Factory** - SSL certificate management and automation
 
 **Production Systems**
 - 🏥 WordPress solutions for healthcare clients (Bluewater Area Family Health Team)
 - 🔌 Custom WordPress AI chat plugins with Claude integration
 - 🏠 Advanced Home Assistant deployments and automation
+- 💧 **Utility Monitor** - Real-time water meter monitoring with computer vision
 
 ## 💡 Core Philosophy
 
@@ -54,17 +61,26 @@ I believe in **AI-augmented development**—leveraging modern AI tools to maximi
 
 ## 🎯 Featured Projects
 
-### 🔍 Computer Vision Utility Monitor
-Real-time meter reading system using Wyze cameras and Claude Vision API for automated utility tracking and monitoring.
+### 💼 HyCRM
+Customer relationship management system designed for efficient client tracking and business workflow automation.
 
-### 🎬 AI Video Database
-Intelligent video composition engine with semantic search capabilities, enabling natural language querying of video content.
+### 🎬 Video Documentation & Generation
+Suite of AI-powered video tools for automated documentation, composition, and content generation using Claude Vision API.
+
+### 📊 Meta Extraction
+Intelligent system for extracting and organizing metadata from media files, enabling smart cataloging and search.
+
+### 🎙️ Local Podcast
+End-to-end podcast generation and management platform for local content creation.
+
+### 💕 Date Night
+Application for planning and scheduling date activities, making quality time effortless.
+
+### 🔐 SSL Factory
+Automated SSL certificate management and provisioning system.
 
 ### 🏠 Smart Home Ecosystem
 Comprehensive home automation setup with custom integrations, IR control systems, and voice-activated workflows.
-
-### 📱 React Native Apps
-Production mobile applications including food ordering systems and medical clinic booking platforms.
 
 ## 🌟 What Sets Me Apart
 
