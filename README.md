@@ -12,9 +12,7 @@ I'm a veteran software engineer with 30 years of experience, evolving through ev
 - 📊 **Meta Extraction** - Intelligent metadata extraction from media files
 - 🎙️ **Local Podcast** - Podcast generation and management system
 
-**Business & Productivity**
-- 💼 **HyCRM** - Customer relationship management system
-- 💕 **Date Night** - Date planning and scheduling application
+**Infrastructure & Automation**
 - 🔐 **SSL Factory** - SSL certificate management and automation
 
 **Production Systems**
@@ -61,9 +59,6 @@ I believe in **AI-augmented development**—leveraging modern AI tools to maximi
 
 ## 🎯 Featured Projects
 
-### 💼 HyCRM
-Customer relationship management system designed for efficient client tracking and business workflow automation.
-
 ### 🎬 Video Documentation & Generation
 Suite of AI-powered video tools for automated documentation, composition, and content generation using Claude Vision API.
 
@@ -72,9 +67,6 @@ Intelligent system for extracting and organizing metadata from media files, enab
 
 ### 🎙️ Local Podcast
 End-to-end podcast generation and management platform for local content creation.
-
-### 💕 Date Night
-Application for planning and scheduling date activities, making quality time effortless.
 
 ### 🔐 SSL Factory
 Automated SSL certificate management and provisioning system.
