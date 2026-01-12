@@ -12,10 +12,6 @@ I'm a veteran software engineer with 30 years of experience, evolving through ev
 - 📊 **Meta Extraction** - Intelligent metadata extraction from media files
 - 🎙️ **Local Podcast** - Podcast generation and management system
 
-**Business & Productivity**
-- 💼 **HyCRM** - Customer relationship management system
-- 💕 **Date Night** - Date planning and scheduling application
-- 🔐 **SSL Factory** - SSL certificate management and automation
 
 **Production Systems**
 - 🏥 WordPress solutions for healthcare clients (Bluewater Area Family Health Team)
@@ -72,9 +68,6 @@ Intelligent system for extracting and organizing metadata from media files, enab
 
 ### 🎙️ Local Podcast
 End-to-end podcast generation and management platform for local content creation.
-
-### 💕 Date Night
-Application for planning and scheduling date activities, making quality time effortless.
 
 ### 🔐 SSL Factory
 Automated SSL certificate management and provisioning system.
