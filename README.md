@@ -1,104 +1,72 @@
-# 👋 Hey, I'm Sean Hunt
+👋 Hey, I'm Sean Hunt
 
-**Experienced Software Development & Technology Leader | AI Integration Specialist | Full-Stack Architect**
+**Software Architect & Technical Lead | Production Systems | AI-Augmented Development**
 
-I'm a veteran software engineer with 30 years of experience, evolving through every major technology shift—from the early web to modern AI-powered development. I build production-ready solutions that blend deep technical expertise with cutting-edge AI capabilities.
+Thirty years of building and owning software that real businesses depend on every day — from 16 years as CTO/Software Architect of a PCI Level 2 e-commerce operation, through engineering leadership at Trackunit, ZTR, and Carfax, to running EcoWorks Web Architecture today.
 
-## 🚀 What I'm Building Right Now
+Most of what's here was built with AI coding agents as core development capacity — Claude Code and the Claude API — not as a novelty. I direct agents at complex objectives, review what comes back critically, and decide what's actually safe to ship. The interesting question isn't who wrote a function. It's whether the system works at 2 a.m.
 
-**AI-Powered Video & Media Tools**
-- 🎬 **Video Documentation** - Automated video analysis and documentation generation using Claude Vision API
-- 🎥 **Video Generation** - AI-powered video composition and generation pipeline
-- 📊 **Meta Extraction** - Intelligent metadata extraction from media files
-- 🎙️ **Local Podcast** - Podcast generation and management system
+📍 Middlesex Centre / London, Ontario · 🇨🇦 Canadian data residency by default
 
+---
 
-**Production Systems**
-- 🏥 WordPress solutions for healthcare clients (Bluewater Area Family Health Team)
-- 🔌 Custom WordPress AI chat plugins with Claude integration
-- 🏠 Advanced Home Assistant deployments and automation
-- 💧 **Utility Monitor** - Real-time water meter monitoring with computer vision
+## 🏥 Healthcare & Clinical Systems
 
-## 💡 Core Philosophy
+- **[AI Appointment Booking & Patient Chat](https://github.com/smhunt/REPO-SLUG)** — Conversational booking and patient intake, Claude-powered, built for real clinic workflows rather than a demo happy path.
+- **[OSCAR EMR Integration](https://github.com/smhunt/REPO-SLUG)** — Integration layer against OSCAR, Ontario's dominant open-source EMR: clinical data access, appointment/scheduling surfaces, and the messy reality of working with an EMR whose implementations don't always match the documentation.
+- **Bluewater Area Family Health Team** — Production web platform for a multi-site Ontario family health team, including a custom Claude-integrated chat plugin. Real patients, real accessibility requirements, elderly-first UX.
 
-I believe in **AI-augmented development**—leveraging modern AI tools to maximize productivity and deliver enterprise-quality solutions as a solo developer. I focus on:
+Handling regulated data is not new ground for me: I held Level 2 PCI compliance through recurring external audits for 16 years at TLC Pet Food.
 
-- **Intelligent automation** - Building systems that work smarter, not harder
-- **Rapid prototyping** - Moving from concept to working product quickly
-- **Production-ready code** - 30 years of experience building systems that last
-- **Pragmatic architecture** - Choosing the right tool for the job, every time
+---
 
-## 🛠️ Tech Stack
+## ⚙️ Production Platform & Integration Work
 
-**Languages & Frameworks**
-- Python (AI/ML, Computer Vision, Backend)
-- JavaScript/TypeScript (React, React Native, Node.js)
-- C# / .NET 8
-- PHP (WordPress, Custom Plugins)
+- **[Handled](https://github.com/smhunt/REPO-SLUG)** — Booking and lead-qualification SaaS. React/TypeScript front end, Express API, PostgreSQL, Clerk auth — multi-tenant architecture, the same shape as a clinical operations platform.
+- **[Domain Commerce MCP](https://github.com/smhunt/REPO-SLUG)** — Production MCP server over the Tucows/OpenSRS API (20-year affiliate registrar). Real third-party API integration: OAuth, rate limits, partial failures, money changing hands.
+- **[SSL Factory](https://github.com/smhunt/REPO-SLUG)** — Automated certificate provisioning and renewal. Boring, unglamorous, and exactly the kind of thing that takes a platform down when nobody owns it.
+- **[Utility Monitor](https://github.com/smhunt/REPO-SLUG)** — Computer-vision water meter reading (YOLOv8 + OCR) with a self-hosted Docker/MQTT/PostgreSQL pipeline. Edge capture through to time-series storage and alerting.
 
-**AI & Machine Learning**
-- Claude API (Vision, Chat, RAG)
-- OpenAI GPT-4
-- YOLOv8 Object Detection
-- Semantic Search & Vector Databases
+---
 
-**Infrastructure & IoT**
-- Home Assistant
-- RTSP Camera Processing
-- SmartThings Integration
-- ESP32/Particle Photon
-- Raspberry Pi Edge Computing
+## 🤖 AI-Augmented Development
 
-**Cloud & DevOps**
-- WordPress Architecture
-- API Development
-- Database Design (MySQL, PostgreSQL)
-- Git Workflow Mastery
+- **[claude-code-sounds](https://github.com/smhunt/claude-code-sounds)** — Audio feedback for Claude Code using native macOS sounds and TTS. Swift.
+- **[Video Documentation & Generation](https://github.com/smhunt/REPO-SLUG)** — Automated analysis and documentation generation with the Claude Vision API.
+- **[Local Podcast](https://github.com/smhunt/REPO-SLUG)** — Local-first document-to-audio generation pipeline, self-hosted end to end.
+- **MCP servers over live operational data** — financial, IoT sensor, and geospatial datasets exposed as conversational tooling.
 
-## 🎯 Featured Projects
+---
 
-### 💼 HyCRM
-Customer relationship management system designed for efficient client tracking and business workflow automation.
+## 🛠️ Tech
 
-### 🎬 Video Documentation & Generation
-Suite of AI-powered video tools for automated documentation, composition, and content generation using Claude Vision API.
+**Languages & Frameworks** — Node.js · JavaScript / TypeScript · React & React Native · Python · C# / .NET · PHP
 
-### 📊 Meta Extraction
-Intelligent system for extracting and organizing metadata from media files, enabling smart cataloging and search.
+**Data** — PostgreSQL (schema design, production migrations, query performance) · MySQL · SQLite · time-series/IoT pipelines
 
-### 🎙️ Local Podcast
-End-to-end podcast generation and management platform for local content creation.
+**Integration** — REST · OAuth2 · SOAP · webhooks · SFTP · XML/CSV · MCP
 
-### 🔐 SSL Factory
-Automated SSL certificate management and provisioning system.
+**Infrastructure** — AWS · Docker · GitHub Actions CI/CD · Linux · MQTT · Raspberry Pi / ESP32 / Particle edge devices
 
-### 🏠 Smart Home Ecosystem
-Comprehensive home automation setup with custom integrations, IR control systems, and voice-activated workflows.
+**AI** — Claude API (chat, vision, RAG) · Claude Code · MCP server development · vector search
 
-## 🌟 What Sets Me Apart
+---
 
-- **Three Decades of Perspective** - I've seen tech cycles come and go; I know what actually works
-- **AI-Augmented Workflow** - Fully integrated AI tools into every stage of development
-- **Full-Stack Versatility** - From embedded systems to cloud APIs, frontend to computer vision
-- **Product Factory Mindset** - Building multiple SaaS products with rapid iteration cycles
-- **Adaptable Architecture** - Right-sizing solutions from edge computing to cloud-scale systems
+## 🌟 What I Bring
 
-## 📊 GitHub Stats
+- **Production ownership** — monitoring, incident response, migrations, rollback discipline. I don't panic when prod behaves differently from staging.
+- **Regulated-data experience** — PCI Level 2 through external audit; healthcare clients under PHIPA expectations.
+- **AI as leverage, with judgment** — aggressive use of coding agents, paired with knowing when the output is wrong.
+- **Leadership when it's needed** — led front-end and back-end teams at Carfax to ship a top-ranked React Native consumer app ahead of schedule; know how to decide when a platform actually needs more people, and what to hire for.
+- **Three decades of perspective** — I've watched tech cycles come and go and I know what holds up.
 
-![Sean's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smhunt&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-
-## 💼 Current Status
-
-🟢 **Available for Contract Work** - Specializing in:
-- AI integration & computer vision systems
-- WordPress development for healthcare/enterprise
-- Home automation & IoT solutions
-- React/React Native mobile apps
-- Technical architecture & consulting
+---
 
 ## 📫 Let's Connect
 
-I'm always interested in discussing innovative projects, especially those involving AI, automation, or solving real-world problems with elegant technical solutions.
+sean@ecoworks.ca · [linkedin.com/in/ecoworks](https://www.linkedin.com/in/ecoworks/)
+
+Open to senior engineering and technical lead work in southwestern Ontario or remote across Canada.
 
 ---
 
